@@ -1,0 +1,10 @@
+Ivanov 456
+Smirnov 45645
+Kuznetcov 456456
+Popov 4564
+Petrov 55000
+Sokolov 54622
+Novikov 19000
+Fedorov 35004
+Morozov 15054
+Volkov 65045
