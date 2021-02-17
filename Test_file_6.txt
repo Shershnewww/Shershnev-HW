@@ -1,0 +1,4 @@
+Physics 30 50 20
+Chemistry 30 50 0
+Informatics 0 50 20
+Literature 50 50 10
